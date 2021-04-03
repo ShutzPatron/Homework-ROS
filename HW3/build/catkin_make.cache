@@ -1,0 +1,2 @@
+robot
+-DCATKIN_DEVEL_PREFIX=/home/smida/Documents/Coding/Gartseev/HW3/devel -DCMAKE_INSTALL_PREFIX=/home/smida/Documents/Coding/Gartseev/HW3/install -G Unix Makefiles
